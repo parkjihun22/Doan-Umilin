@@ -72,7 +72,7 @@ const UnitplanBox = () => {
                     </div>
                 ))}
             </div>
-
+   
             <div className={styles.imgContainer}>
                 <AiOutlineLeft
                     size={!isMobile ? 50 : 30}
